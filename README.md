@@ -1,2 +1,4 @@
-# LASth_Project
-部署LocateAnything-3B模型的一段代码测试
+# DLProject
+学习DL时的一些示例代码
+
+/note 存放课堂笔记
